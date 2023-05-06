@@ -1,2 +1,5 @@
-# CP2102-Reverse-Engineered-Pcb
-Reverse engineered CP2102, turned into an eagle schematic
+CP2102 pcb module, bought from aliexpress.
+
+Repository contains:
+- Photoshop project
+- AUtodesk EAGLE schematic
