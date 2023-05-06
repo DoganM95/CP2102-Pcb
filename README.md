@@ -4,4 +4,10 @@
 ## Repository contains:
 
 - Photoshop project
-- AUtodesk EAGLE schematic
+- Autodesk EAGLE schematic
+
+## Pcb measures:
+
+- Width: 21,5 mm
+- Height: 16 mm
+- Thickness: 1,15 mm (without components)
