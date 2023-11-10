@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38842553/282050154-5bf25069-c608-403f-89e8-9a42b5cb3895.png" alt="USB-C PCB Top View" style="width:100%; height: 500px;" /></td>
-    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38842553/282050135-e9896be7-b480-4d6e-b6d7-aed8651f44b9.png" alt="USB-C PCB Bottom View" style="width:100%; height: 500px;" /></td>
+    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38842553/282050154-5bf25069-c608-403f-89e8-9a42b5cb3895.png" alt="USB-C PCB Top View" style="width: 500px;" /></td>
+    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38842553/282050135-e9896be7-b480-4d6e-b6d7-aed8651f44b9.png" alt="USB-C PCB Bottom View" style="width: 500px;" /></td>
   </tr>
 </table>
 
